@@ -7,7 +7,9 @@
         <img src="/src/assets/Spotify_Logo_RGB_White.png" class="h-10" style="filter: brightness(0) invert(1);">
         </div>
         <div class="mx-2 mb-5">
-          <button v-for="page in pages" @click="setID = page.id" :class="`w-full text-base font_semibold rounded px-3 py-2 flex items-center justify-start ${setID === page.id ? 'bg-light text-white' : 'text-lightest'}`">
+          <button v-for="page in pages" @click="setID = page.id"
+                  :class="`w-full text-base font_semibold rounded px-3 py-2 flex items-center justify-start
+                  ${setID === page.id ? 'bg-light text-white' : 'text-lightest'}`">
             <i class="material-icons mr-3"> {{page.icon}} </i>
             <p> {{ page.name }} </p>
           </button>
@@ -23,8 +25,7 @@
             <p class="text-sm text-white font-semibold">Liked Songs</p>
           </button>
           <div class="h-px w-full bg-light my-3"></div>
-        </div>
-        <div class="mx-5">
+
           <div class="w-full h-96 mb-3 overflow-y-scroll scroll">
             <p v-for="album in albums" class="text-lightest hover:text-white text-sm py-1"> {{ album.name }} </p>
           </div>
