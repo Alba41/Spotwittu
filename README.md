@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Alba41/Spotwittu">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="public/SpotifyIconGreen.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Spotwittu</h3>
@@ -84,8 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
-
+Spotwittu is a project to make a clone of spotify and twitter, at least the front part. This is for learning purposes and not for profit.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -117,20 +116,22 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+<!--1. Get a free API Key at [https://example.com](https://example.com)-->
+1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
+   
+<!--
 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
-
+-->
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
