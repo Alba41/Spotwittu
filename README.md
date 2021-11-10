@@ -1,13 +1,4 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -36,7 +27,7 @@
 <h3 align="center">Spotwittu</h3>
 
   <p align="center">
-    project_description
+    Spotwittu is a project to make a clone of spotify and twitter, at least the front part. This is for learning purposes and not for profit.
     <br />
     <a href="https://github.com/Alba41/Spotwittu"><strong>Explore the docs »</strong></a>
     <br />
@@ -69,11 +60,11 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <!--<li><a href="#roadmap">Roadmap</a></li>-->
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+   <!-- <li><a href="#acknowledgments">Acknowledgments</a></li>-->
   </ol>
 </details>
 
@@ -82,12 +73,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Spotwittu is a project to make a clone of spotify and twitter, at least the front part. This is for learning purposes and not for profit.
-<p align="right">(<a href="#top">back to top</a>)</p>
+[![Product Name Screen Shot][product-screenshot]](https://spotwittu.ovh)
 
 
+The spotify part of Spotwittu is developped in Vue.js. The twitter part will be developped in React.js.
+The deployement is done by Netlify and hosting is done by ovh.
 
 ### Built With
 
@@ -103,8 +93,9 @@ Spotwittu is a project to make a clone of spotify and twitter, at least the fron
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To start the project, make sure you have NodeJS installed on your machine.
+
+* [NodeJS](https://nodejs.org)
 
 ### Prerequisites
 
@@ -119,7 +110,7 @@ This is an example of how to list things you need to use the software and how to
 <!--1. Get a free API Key at [https://example.com](https://example.com)-->
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Alba41/Spotwittu.git
    ```
 2. Install NPM packages
    ```sh
@@ -136,7 +127,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -144,16 +135,16 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+-->
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
+- [] Spotify Front in Vue.js
+- [] Twitter Front in React.js 
+- [] Multi language support
+    - [] English
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -199,12 +190,14 @@ Project Link: [https://github.com/Alba41/Spotwittu](https://github.com/github_us
 
 
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- ACKNOWLEDGMENTS 
 ## Acknowledgments
 
 * []()
 * []()
 * []()
+
+-->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
