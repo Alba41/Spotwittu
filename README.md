@@ -217,4 +217,4 @@ Project Link: [https://github.com/Alba41/Spotwittu](https://github.com/github_us
 [license-url]: https://github.com/Alba41/Spotwittu/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/félicien-meganck-67046a144/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: public/screenshot.png
