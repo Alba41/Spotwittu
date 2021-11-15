@@ -32,11 +32,11 @@
     <a href="https://github.com/Alba41/Spotwittu"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Alba41/Spotwittu">View Demo</a>
+    <a href="https://www.spotwittu.ovh">View Demo</a>
     ·
     <a href="https://github.com/Alba41/Spotwittu/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Alba41/Spotwittu/issues">Request Feature</a>
+    <a href="https://github.com/Alba41/Spotwittu/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -182,7 +182,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Meganck Félicien <!-- [@twitter_handle](https://twitter.com/twitter_handle)--> - felicien.meganck@epitech.eu 
 
 Project Link: [https://github.com/Alba41/Spotwittu](https://github.com/github_username/repo_name)
 
@@ -197,11 +197,11 @@ Project Link: [https://github.com/Alba41/Spotwittu](https://github.com/github_us
 * []()
 * []()
 
--->
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+-->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
